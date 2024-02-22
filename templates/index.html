@@ -4,7 +4,9 @@
         <title>Index</title>
     </head>
     <body>
-        <h1>Greet</h1>
-        Hello, {{ name }}
+        <form action="/greet" method="get">
+            <input autocomplete="off" autofocus name="name" placeholder="Name" type="text">
+            <button type="submit">Greet</button>
+        </form>
     </body>
 </html>
