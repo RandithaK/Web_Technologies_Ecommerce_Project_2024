@@ -1,0 +1,9 @@
+Index Page
+Component Page
+Login / SignUp
+Profile Page
+Cart
+Billing - Opt
+Contact Us
+    Subscription Email - Opt
+About Us
