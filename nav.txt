@@ -12,10 +12,10 @@
                         <a class="nav-link" aria-current="page" href="#">Home</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#">Features</a>
+                        <a class="nav-link" href="#">Products</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#">Pricing</a>
+                        <a class="nav-link" href="#">Contact Us</a>
                     </li>
                     <li class="nav-item dropdown">
                         <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown"
@@ -28,6 +28,17 @@
                             <li><a class="dropdown-item" href="#">Something else here</a></li>
                         </ul>
                     </li>
+                </ul>
+            </div>
+            <div class="collapse navbar-collapse nav-buttons nav-buttons-right" >
+                <ul class="navbar-nav ms-auto">
+                    <li class="nav-item">
+                        <i class="fa-solid fa-cart-shopping"></i>   
+                    </li>
+                    <li class="nav-item">
+                        <i class="fa-solid fa-user"><a href="signin.html"> Sign In / Register</a> </i> 
+                    </li>
+                    
                 </ul>
             </div>
         </div>
