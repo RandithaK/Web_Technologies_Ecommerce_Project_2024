@@ -17,6 +17,12 @@
                     <li class="nav-item">
                         <a class="nav-link" href="./contactUs.html">Contact Us</a>
                     </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="./signUp.php">Sign Up</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="./signIn.php">Sign In</a>
+                    </li>
                 </ul>
             </div>
         </div>
