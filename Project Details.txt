@@ -1,0 +1,10 @@
+Git Hub link
+https://github.com/RandithaK/Web_Technologies_Ecommerce_Project_2024/
+
+Workload Matrix
+
+224112A - Boot Strap, JQuery, index page
+224226C - Backend, php, SQL
+225540P - Product Template
+224074G - Index page, improvements
+224164H - Product Page
