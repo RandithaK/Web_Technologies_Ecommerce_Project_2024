@@ -94,7 +94,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
         $stmt->bindParam(':password', $hashed_password);
 
         if ($stmt->execute()) {
-          header("Location: homepage.php");
+          header("Location: index.html");
           exit;
         } else {
           echo "<p>Registration failed. Please try again later.</p>";

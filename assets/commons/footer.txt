@@ -82,3 +82,9 @@
         </div>
     </footer>
 </div>
+Docs
+Components
+Blog
+Showcase
+Theme￼
+Tailwind CSS on GitHub

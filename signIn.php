@@ -84,7 +84,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
       // Redirecting to homepage after successful login
       session_start();
       $_SESSION['user'] = $user['email']; // Assuming 'email' can be used as user identifier
-      header("Location: homepage.php");
+      header("Location: index.html");
       exit;
     } else {
       echo "<script>alert('Login failed, wrong credentials.');</script>";
